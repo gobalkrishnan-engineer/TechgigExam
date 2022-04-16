@@ -16,7 +16,8 @@ Constraints
 Output Format
 Print the text according to the data type you get as an input. 
 '''
-
+Input  = -32767
+Output = This input is of type Integer.
 **/
 
 
