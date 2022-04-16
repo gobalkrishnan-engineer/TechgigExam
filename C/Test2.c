@@ -1,4 +1,4 @@
-```
+/*
 Exploring Data Types (100 Marks)
 For this challenge, you need to read a line from stdin and check whether it is of type integer, float or string.
 If input is-
@@ -15,8 +15,9 @@ Constraints
 
 Output Format
 Print the text according to the data type you get as an input. 
-```
+'''
 
+**/
 
 
 
