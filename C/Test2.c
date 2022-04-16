@@ -1,3 +1,25 @@
+```
+Exploring Data Types (100 Marks)
+For this challenge, you need to read a line from stdin and check whether it is of type integer, float or string.
+If input is-
+    Integer print 'This input is of type Integer.' to the stdout
+    Float print 'This input is of type Float.' to the stdout
+    String print 'This input is of type string.' to the stdout
+    else print 'This is something else.' to the stdout.
+
+Input Format
+A single line to be taken as input as save it to a variable(name of your choice). 
+
+Constraints
+1 < |s| < 10000
+
+Output Format
+Print the text according to the data type you get as an input. 
+```
+
+
+
+
 /* Read input from STDIN. Print your output to STDOUT*/
 #include<stdio.h>
 #include<math.h>
